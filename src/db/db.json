@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "e5bee711-af90-4e3d-8ad1-0b72509c2e51",
+    "name": "Patti O'Connell II",
+    "phone": "1-203-660-3826",
+    "email": "Hillard75@hotmail.com",
+    "job": "Human Solutions Administrator"
+  },
+  {
+    "id": "e419049c-6182-44ad-b60b-d2d926ad4a7a",
+    "name": "Rosie Davis",
+    "phone": "648.340.3357 x05938",
+    "email": "Rogers_Bauch@gmail.com",
+    "job": "Principal Identity Planner"
+  },
+  {
+    "id": "07abadf9-6433-4e22-83ea-820f8d7e45b9",
+    "name": "Lynette Farrell",
+    "phone": "245-382-7149",
+    "email": "Theodore.Purdy@hotmail.com",
+    "job": "Internal Metrics Assistant"
+  },
+  {
+    "id": "c1d1fd38-598f-4625-98b0-31e66cab260f",
+    "name": "Doris McGlynn",
+    "phone": "493-266-0540 x86270",
+    "email": "Keira.Marks28@hotmail.com",
+    "job": "National Metrics Strategist"
+  }
+]
